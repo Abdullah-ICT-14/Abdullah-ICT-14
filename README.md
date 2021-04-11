@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abdullah
--     I'm studying at Department of Information and Communication Technology,MBSTU.
+-    I'm studying at Department of Information and Communication Technology,MBSTU.
 - 👀 I’m interested in Machine learning and Data Science.
 - 🌱 I’m currently learning Data Science and Machine learning
 
