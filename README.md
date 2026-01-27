@@ -41,18 +41,18 @@ I am passionate about research, teaching, and building data-driven solutions for
 
 ## 🏛 Administrative Experience
 
-- Program Coordinator — CSE, BAIUST (2025)  
-- Assistant Proctor — BAIUST (2024–2025)  
-- Anti-Ragging Committee Member — BAIUST (2025)  
-- Sports Club Co-Advisor — BAIUST (2024–2025)
+- Program Coordinator — Department of CSE, Bangladesh Army International University of Science and Technology (BAIUST), Cumilla, Bangladesh(20-7-2025 -- 23-09-2025)  
+- Assistant Proctor — Assistant Proctor, Bangladesh Army International University of Science and Technology (BAIUST), Cumilla, Bangladesh (11-2-2025 -- 23-09-2025)
+- Anti-Ragging Committee Member — Member, Anti Ragging Committee, Bangladesh Army International University of Science and Technology (BAIUST), Cumilla, Bangladesh(21-8-2024 -- 23-09-2025)
+- Sports Club Co-Advisor — Co-Advisor, Sports Club, Bangladesh Army International University of Science and Technology (BAIUST), Cumilla, Bangladesh(7-7-2024 -- 23-09-2025)
 
 ---
 
 ## 📝 Selected Publications
 
 ### **Journal**
-- **IEEE Access (2025)** — *Explainable AI-Driven Dew Point Forecasting using Temporal CNNs* :contentReference[oaicite:0]{index=0}  
-  `DOI: 10.1109/ACCESS.2025.3557263`
+- **IEEE Access (2025)** — M. Abdullah, S. Waheed, M. Mahmodul Hasan and M. Morshed, "Explainable AI-Driven Dew Point Forecasting With Attention-Based Temporal Convolutional Networks," in IEEE Access, vol. 13, pp. 59923-59948, 2025, doi: 10.1109/ACCESS.2025.3557263.
+
 
 ### **Conferences**
 - NCIM 2025 — *AI-driven Temperature Forecasting* :contentReference[oaicite:1]{index=1}  
@@ -60,78 +60,7 @@ I am passionate about research, teaching, and building data-driven solutions for
 - TCCE 2022 — *Sentiment Analysis of Restaurant Reviews*  
 - TCCE 2022 — *Car Detection from UAV Imagery*
 
----
 
-## 🧠 Problem Solving & Competitive Skills
-
-- Solved **91 problems** in Python during COL Certification  
-- **40 problems** solved on Rosalind Bioinformatics  
-- **52 problems** solved on Beecrowd (C programming)
-
----
-
-## 🛠 Technical Skills
-
-**Programming:** Python, C, Java, R, C++, MySQL, MATLAB  
-**ML/DL:** Deep Learning, Time Series Forecasting, XAI  
-**Frameworks & Tools:** PyTorch, Anaconda, Git, Tableau, Colab  
-**Web Development:** HTML, CSS, Bootstrap, JavaScript  
-**Databases:** MySQL, MSSQL Server  
-**Other:** Drone Tech, 3D Printing, ASP.NET MVC, Laravel (Basic)
-
----
-
-## 🧑‍🏫 Teaching & Pedagogy
-
-- Course instruction in **Cyber Security**, **Programming**, **Data Science**, and **AI**
-- Experienced with **Outcome-Based Education (OBE)** methods
-- Participated in **Pedagogical Training & BAETE Accreditation**
-
-**Training Highlights:**
-- BAETE SAR Training — BAIUST  
-- 3-Day Induction Training on OBE & Pedagogical Tools — IQAC (Dec 2024)
-
----
-
-## 🧾 Certifications
-
-- *Machine Learning A-Z* — Udemy  
-- *Complete Data Science Bootcamp* — Udemy  
-- *Data Analyst Bootcamp* — Udemy  
-- *Blockchain Fundamentals* — Udemy  
-- *Google IT Support* — Coursera
-
----
-
-## 🔭 Current Research Topics
-
-- AI for environmental forecasting  
-- Rainfall & climatic extreme modeling  
-- Hybrid deep learning architectures  
-- Applied explainable AI  
-- Sensor data + IoT for meteorology  
-
----
-
-## 📦 Featured Projects (Coming Soon)
-
-- BanglaRain-ENS: Rainfall Ensemble Forecasting  
-- Weather Time-Series Benchmarking Suite  
-- Climate Data API Tools for Bangladesh  
-- Explainable Dew Point Forecasting Toolset  
-
----
-
-## 🚀 Future Goals
-
-- Publish in IEEE Transactions / Elsevier Journals  
-- Develop climate forecasting toolkits for Bangladesh  
-- Expand research in Cyber-Physical + AI systems  
-- Supervise undergraduate research teams  
-
----
-
-## 📫 Contact
 
 📧 **Email:** abdullah17015@gmail.com  
 🏫 **Affiliation:** UFTB, Bangladesh  
