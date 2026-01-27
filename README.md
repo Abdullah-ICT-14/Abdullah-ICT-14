@@ -30,12 +30,12 @@ I am passionate about research, teaching, and building data-driven solutions for
 
 ---
 
-## 🏫 Academic Positions
+## Employment History
 
-- **Lecturer, Cyber Security Engineering** — UFTB (2025–Present)  
-- **Lecturer, CSE** — BAIUST (2024–2025)  
-- **Assistant Computer Programmer** — BSMR Digital University (2023–2024)  
-- **Lecturer, CSE** — Uttara University (2023)
+- **Lecturer, Dept. of Cyber Security Engineering** — University of Frontier Technology, Bangladesh (24 September 2025 – Present)  
+- **Lecturer, Dept. of Computer Science and Engineering** — Bangladesh Army International University of Science and Technology (BAIUST), Cumilla, Bangladesh (21 April 2024 – 23 September 2025)   
+- **Assistant Computer Programmer** — Bangabandhu Sheikh Mujibur Rahman Digital University, Kaliakor, Gazipur, Bangladesh. (25 September 2023 – 18 April 2024)  
+- **Lecturer, Dept. of Computer Science and Engineering** — Uttara University (24 July 2023 to 24 September 2023)
 
 ---
 
