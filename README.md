@@ -1,12 +1,8 @@
-# 👨‍💻 Md. Abdullah
+# Md. Abdullah
 
 **Lecturer, Department of Cyber Security Engineering**  
-**University of Frontier Technology, Bangladesh (UFTB)**  
-
-I am a Lecturer and AI researcher working at the intersection of **Machine Learning**, **Environmental Time-Series Forecasting**, and **Cyber Security Education**. My work focuses on building deep learning models for meteorological applications such as dew point, temperature, and rainfall forecasting. I aim to integrate computational intelligence with real-world climatic and IoT data to support scientific decision-making and environmental resilience.
-
-I am passionate about research, teaching, and building data-driven solutions for impactful domains.
-
+**University of Frontier Technology, Bangladesh (UFTB), Kaliakair, Gazipur-1750**  
+Email:abdullah17015@gmail.com, mdabdullah0001@uftb.ac.bd
 ---
 
 ## 🧪 Research Interests
@@ -60,18 +56,3 @@ I am passionate about research, teaching, and building data-driven solutions for
 keywords: {Temperature distribution;Accuracy;Fluctuations;Weather forecasting; 
 - TCCE 2022 — *Abdullah, M., Waheed, S., Hossain, S. (2023). Sentiment Analysis of Restaurant Reviews Using Machine Learning. In: Kaiser, M.S., Waheed, S., Bandyopadhyay, A., Mahmud, M., Ray, K. (eds) Proceedings of the Fourth International Conference on Trends in Computational and Cognitive Engineering. Lecture Notes in Networks and Systems, vol 618. Springer, Singapore. https://doi.org/10.1007/978-981-19-9483-8_35  
 - TCCE 2022 — *Hossain, S., Waheed, S., Abdullah, M. (2023). Car Detection from Unmanned Aerial Vehicles Based on Deep Learning: A Comparative Study. In: Kaiser, M.S., Waheed, S., Bandyopadhyay, A., Mahmud, M., Ray, K. (eds) Proceedings of the Fourth International Conference on Trends in Computational and Cognitive Engineering. Lecture Notes in Networks and Systems, vol 618. Springer, Singapore. https://doi.org/10.1007/978-981-19-9483-8_6
-
-
-
-📧 **Email:** abdullah17015@gmail.com  
-🏫 **Affiliation:** UFTB, Bangladesh  
-🌍 **Location:** Kaliakor, Gazipur, Bangladesh  
-
----
-
-## ⭐ GitHub Profile Summary
-
-> _“I believe impactful research emerges where data, computation, and real-world problems intersect.”_
-
----
-
