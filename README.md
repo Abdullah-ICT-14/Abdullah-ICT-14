@@ -2,7 +2,7 @@
 
 **Lecturer, Department of Cyber Security Engineering**  
 **University of Frontier Technology, Bangladesh (UFTB), Kaliakair, Gazipur-1750**  
-Email:abdullah17015@gmail.com, mdabdullah0001@uftb.ac.bd
+Email: abdullah17015@gmail.com, mdabdullah0001@uftb.ac.bd
 ---
 
 ## 🧪 Research Interests
