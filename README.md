@@ -5,7 +5,7 @@
 Email: abdullah17015@gmail.com, mdabdullah0001@uftb.ac.bd
 ---
 
-## 🧪 Research Interests
+## Research Interests
 
 - Machine Learning & Deep Learning  
 - Time-Series Forecasting  
@@ -13,11 +13,11 @@ Email: abdullah17015@gmail.com, mdabdullah0001@uftb.ac.bd
 - Explainable AI (XAI)  
 - Natural Language Processing  
 - IoT & Cyber-Physical Systems  
-- Cyber Security Education  
+- Cyber Security
 
 ---
 
-## 📚 Academic Background
+## Academic Background
 
 - **M.Sc. (Engg.) in ICT** — Mawlana Bhashani Science & Technology University (2023–2025)  
   GPA: **4.00 / 4.00**  
@@ -35,7 +35,7 @@ Email: abdullah17015@gmail.com, mdabdullah0001@uftb.ac.bd
 
 ---
 
-## 🏛 Administrative Experience
+## Administrative Experience
 
 - Program Coordinator — Department of CSE, Bangladesh Army International University of Science and Technology (BAIUST), Cumilla, Bangladesh(20-7-2025 -- 23-09-2025)  
 - Assistant Proctor — Assistant Proctor, Bangladesh Army International University of Science and Technology (BAIUST), Cumilla, Bangladesh (11-2-2025 -- 23-09-2025)
@@ -44,7 +44,7 @@ Email: abdullah17015@gmail.com, mdabdullah0001@uftb.ac.bd
 
 ---
 
-## 📝 Selected Publications
+## Selected Publications
 
 ### **Journal**
 - **IEEE Access (2025)** — M. Abdullah, S. Waheed, M. Mahmodul Hasan and M. Morshed, "Explainable AI-Driven Dew Point Forecasting With Attention-Based Temporal Convolutional Networks," in IEEE Access, vol. 13, pp. 59923-59948, 2025, doi: 10.1109/ACCESS.2025.3557263.
