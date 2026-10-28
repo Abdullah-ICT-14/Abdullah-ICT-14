@@ -29,6 +29,8 @@ Email: abdullah17015@gmail.com, mdabdullah0001@uftb.ac.bd
 ## Employment History
 
 - **Lecturer, Dept. of Cyber Security Engineering** — University of Frontier Technology, Bangladesh(24 September 2025 – Present)
+-   Courses Taught: CySE 115: Discrete Mathematics and Graph Theory; CySE 123/124: Data Structures and Algorithms (& Sessional); CySE 221/222: Advanced Programming with Python and Scripting (& Sessional); CySE 223/224: Software and System Security (& Sessional).
+-   
 - **Lecturer, Dept. of Computer Science and Engineering** — Bangladesh Army International University of Science and Technology (BAIUST), Cumilla, Bangladesh (21 April 2024 – 23 September 2025)   
 - **Assistant Computer Programmer** — Bangabandhu Sheikh Mujibur Rahman Digital University, Kaliakor, Gazipur, Bangladesh. (25 September 2023 – 18 April 2024)  
 - **Lecturer, Dept. of Computer Science and Engineering** — Uttara University (24 July 2023 to 24 September 2023)
