@@ -28,7 +28,7 @@ My research focuses on developing deep learning and explainable AI (XAI) models 
 
 ## Selected Publications
 
-### ** Peer-Reviewed Journal**
+###  **Peer-Reviewed Journal**
 - **IEEE Access (2026)** - S. Khanom, M. Abdullah*, M. M. Hasan, M. J. Joy, S. Waheed, and M. Morshed, “BanglaRain: A Missingness-
 Aware Spatiotemporal Graph Transformer for Probabilistic Multi-Horizon Rainfall and Extreme Event Forecast-
 ing,” IEEE Access, vol. 14, pp. 118900–118927, 2026. DOI: 10.1109/ACCESS.2026.3719410
@@ -69,6 +69,6 @@ keywords: {Temperature distribution;Accuracy;Fluctuations;Weather forecasting;
 ---
 
 ## TECHNICAL SKILLS
-Deep Learning & AI: & Spatiotemporal Graph Transformers, Graph Neural Networks (GNNs), Temporal Convolutional Networks (TCNs), Attention Mechanisms, Explainable AI (XAI), Probabilistic Forecasting, NLP. 
-    Programming \ Frameworks: & Python (PyTorch, TensorFlow/Keras, Scikit-learn, Pandas, NumPy, Matplotlib), R, MATLAB, C, C++, SQL, Anaconda, Jupyter Notebook,  Google Colab, Tableau, LaTeX
+- Deep Learning & AI: & Spatiotemporal Graph Transformers, Graph Neural Networks (GNNs), Temporal Convolutional Networks (TCNs), Attention Mechanisms, Explainable AI (XAI), Probabilistic Forecasting, NLP. 
+- Programming\Frameworks: & Python (PyTorch, TensorFlow/Keras, Scikit-learn, Pandas, NumPy, Matplotlib), R, MATLAB, C, C++, SQL, Anaconda, Jupyter Notebook,  Google Colab, Tableau, LaTeX
 
