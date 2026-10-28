@@ -40,8 +40,8 @@ ing,” IEEE Access, vol. 14, pp. 118900–118927, 2026. DOI: 10.1109/ACCESS.202
 - NCIM 2025 — *M. Abdullah, S. Waheed, S. Khanom, M. M. Hasan, J. A. B. Shawon and M. Morshed, "Comprehensive Analysis and Forecasting of Maximum and Minimum Temperature Using Deep Learning Techniques," 2025 2nd International Conference on Next-Generation Computing, IoT and Machine Learning (NCIM), Gazipur, Bangladesh, 2025, pp. 1-6, doi: 10.1109/NCIM65934.2025.11160107.
 - ICICT 2024 — *M. Abdullah, S. Waheed, M. Morshed and M. M. Hasan, "Analyzing and Forecasting Dew Point Temperature Trends in Bangladesh," 2024 2nd International Conference on Information and Communication Technology (ICICT), Dhaka, Bangladesh, 2024, pp. 165-169, doi: 10.1109/ICICT64387.2024.10839671.
 keywords: {Temperature distribution;Accuracy;Fluctuations;Weather forecasting; 
-- TCCE 2022 — *Abdullah, M., Waheed, S., Hossain, S. (2023). Sentiment Analysis of Restaurant Reviews Using Machine Learning. In: Kaiser, M.S., Waheed, S., Bandyopadhyay, A., Mahmud, M., Ray, K. (eds) Proceedings of the Fourth International Conference on Trends in Computational and Cognitive Engineering. Lecture Notes in Networks and Systems, vol 618. Springer, Singapore. https://doi.org/10.1007/978-981-19-9483-8_35  
-- TCCE 2022 — *Hossain, S., Waheed, S., Abdullah, M. (2023). Car Detection from Unmanned Aerial Vehicles Based on Deep Learning: A Comparative Study. In: Kaiser, M.S., Waheed, S., Bandyopadhyay, A., Mahmud, M., Ray, K. (eds) Proceedings of the Fourth International Conference on Trends in Computational and Cognitive Engineering. Lecture Notes in Networks and Systems, vol 618. Springer, Singapore. https://doi.org/10.1007/978-981-19-9483-8_6
+- TCCE 2022 — *Abdullah, M., Waheed, S., Hossain, S. (2023). Sentiment Analysis of Restaurant Reviews Using Machine Learning. In: Kaiser, M.S., Waheed, S., Bandyopadhyay, A., Mahmud, M., Ray, K. (eds.) Proceedings of the Fourth International Conference on Trends in Computational and Cognitive Engineering. Lecture Notes in Networks and Systems, vol 618. Springer, Singapore. https://doi.org/10.1007/978-981-19-9483-8_35  
+- TCCE 2022 — *Hossain, S., Waheed, S., Abdullah, M. (2023). Car Detection from Unmanned Aerial Vehicles Based on Deep Learning: A Comparative Study. In: Kaiser, M.S., Waheed, S., Bandyopadhyay, A., Mahmud, M., Ray, K. (eds), Proceedings of the Fourth International Conference on Trends in Computational and Cognitive Engineering. Lecture Notes in Networks and Systems, vol 618. Springer, Singapore. https://doi.org/10.1007/978-981-19-9483-8_6
 
 
 ## Employment History
@@ -60,11 +60,15 @@ keywords: {Temperature distribution;Accuracy;Fluctuations;Weather forecasting;
 
 ---
 
-## Administrative Experience
+## Academic Leadership
 - Additional Director- Institutional Quality Assurance Cell (IQAC), University of Frontier Technology, Bangladesh (UFTB), (Jun 2026 -- Present
 - Program Coordinator — Department of CSE, Bangladesh Army International University of Science and Technology (BAIUST), Cumilla, Bangladesh(20-7-2025 -- 23-09-2025)  
 - Assistant Proctor — Assistant Proctor, Bangladesh Army International University of Science and Technology (BAIUST), Cumilla, Bangladesh (11-2-2025 -- 23-09-2025)
 - Sports Club Co-Advisor — Co-Advisor, Sports Club, Bangladesh Army International University of Science and Technology (BAIUST), Cumilla, Bangladesh(7-7-2024 -- 23-09-2025)
 
 ---
+
+## TECHNICAL SKILLS
+Deep Learning & AI: & Spatiotemporal Graph Transformers, Graph Neural Networks (GNNs), Temporal Convolutional Networks (TCNs), Attention Mechanisms, Explainable AI (XAI), Probabilistic Forecasting, NLP. 
+    Programming \ Frameworks: & Python (PyTorch, TensorFlow/Keras, Scikit-learn, Pandas, NumPy, Matplotlib), R, MATLAB, C, C++, SQL, Anaconda, Jupyter Notebook,  Google Colab, Tableau, LaTeX
 
