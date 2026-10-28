@@ -52,7 +52,7 @@ My research focuses on developing deep learning and explainable AI (XAI) models 
 
 ## Selected Publications
 
-### **Journal**
+### ** Peer-Reviewed Journal**
 - **IEEE Access (2026)** - S. Khanom, M. Abdullah, M. M. Hasan, M. J. Joy, S. Waheed, and M. Morshed, “BanglaRain: A Missingness-
 Aware Spatiotemporal Graph Transformer for Probabilistic Multi-Horizon Rainfall and Extreme Event Forecast-
 ing,” IEEE Access, vol. 14, pp. 118900–118927, 2026. DOI: 10.1109/ACCESS.2026.3719410
@@ -60,7 +60,7 @@ ing,” IEEE Access, vol. 14, pp. 118900–118927, 2026. DOI: 10.1109/ACCESS.202
 - **IEEE Access (2025)** — M. Abdullah, S. Waheed, M. Mahmodul Hasan and M. Morshed, "Explainable AI-Driven Dew Point Forecasting With Attention-Based Temporal Convolutional Networks," in IEEE Access, vol. 13, pp. 59923-59948, 2025, doi: 10.1109/ACCESS.2025.3557263.
 
 
-### **Conferences**
+### **Peer-Reviewed Conferences Proceedings (IEEE & Springer)**
 - NCIM 2025 — *M. Abdullah, S. Waheed, S. Khanom, M. M. Hasan, J. A. B. Shawon and M. Morshed, "Comprehensive Analysis and Forecasting of Maximum and Minimum Temperature Using Deep Learning Techniques," 2025 2nd International Conference on Next-Generation Computing, IoT and Machine Learning (NCIM), Gazipur, Bangladesh, 2025, pp. 1-6, doi: 10.1109/NCIM65934.2025.11160107.
 - ICICT 2024 — *M. Abdullah, S. Waheed, M. Morshed and M. M. Hasan, "Analyzing and Forecasting Dew Point Temperature Trends in Bangladesh," 2024 2nd International Conference on Information and Communication Technology (ICICT), Dhaka, Bangladesh, 2024, pp. 165-169, doi: 10.1109/ICICT64387.2024.10839671.
 keywords: {Temperature distribution;Accuracy;Fluctuations;Weather forecasting; 
