@@ -29,11 +29,11 @@ My research focuses on developing deep learning and explainable AI (XAI) models 
 ## Selected Publications
 
 ### ** Peer-Reviewed Journal**
-- **IEEE Access (2026)** - S. Khanom, M. Abdullah, M. M. Hasan, M. J. Joy, S. Waheed, and M. Morshed, “BanglaRain: A Missingness-
+- **IEEE Access (2026)** - S. Khanom, M. Abdullah*, M. M. Hasan, M. J. Joy, S. Waheed, and M. Morshed, “BanglaRain: A Missingness-
 Aware Spatiotemporal Graph Transformer for Probabilistic Multi-Horizon Rainfall and Extreme Event Forecast-
 ing,” IEEE Access, vol. 14, pp. 118900–118927, 2026. DOI: 10.1109/ACCESS.2026.3719410
 
-- **IEEE Access (2025)** — M. Abdullah, S. Waheed, M. Mahmodul Hasan and M. Morshed, "Explainable AI-Driven Dew Point Forecasting With Attention-Based Temporal Convolutional Networks," in IEEE Access, vol. 13, pp. 59923-59948, 2025, doi: 10.1109/ACCESS.2025.3557263.
+- **IEEE Access (2025)** — M. Abdullah*, S. Waheed, M. Mahmodul Hasan and M. Morshed, "Explainable AI-Driven Dew Point Forecasting With Attention-Based Temporal Convolutional Networks," in IEEE Access, vol. 13, pp. 59923-59948, 2025, doi: 10.1109/ACCESS.2025.3557263.
 
 
 ### **Peer-Reviewed Conferences Proceedings (IEEE & Springer)**
