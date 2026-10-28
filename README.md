@@ -26,6 +26,24 @@ My research focuses on developing deep learning and explainable AI (XAI) models 
 
 ---
 
+## Selected Publications
+
+### ** Peer-Reviewed Journal**
+- **IEEE Access (2026)** - S. Khanom, M. Abdullah, M. M. Hasan, M. J. Joy, S. Waheed, and M. Morshed, “BanglaRain: A Missingness-
+Aware Spatiotemporal Graph Transformer for Probabilistic Multi-Horizon Rainfall and Extreme Event Forecast-
+ing,” IEEE Access, vol. 14, pp. 118900–118927, 2026. DOI: 10.1109/ACCESS.2026.3719410
+
+- **IEEE Access (2025)** — M. Abdullah, S. Waheed, M. Mahmodul Hasan and M. Morshed, "Explainable AI-Driven Dew Point Forecasting With Attention-Based Temporal Convolutional Networks," in IEEE Access, vol. 13, pp. 59923-59948, 2025, doi: 10.1109/ACCESS.2025.3557263.
+
+
+### **Peer-Reviewed Conferences Proceedings (IEEE & Springer)**
+- NCIM 2025 — *M. Abdullah, S. Waheed, S. Khanom, M. M. Hasan, J. A. B. Shawon and M. Morshed, "Comprehensive Analysis and Forecasting of Maximum and Minimum Temperature Using Deep Learning Techniques," 2025 2nd International Conference on Next-Generation Computing, IoT and Machine Learning (NCIM), Gazipur, Bangladesh, 2025, pp. 1-6, doi: 10.1109/NCIM65934.2025.11160107.
+- ICICT 2024 — *M. Abdullah, S. Waheed, M. Morshed and M. M. Hasan, "Analyzing and Forecasting Dew Point Temperature Trends in Bangladesh," 2024 2nd International Conference on Information and Communication Technology (ICICT), Dhaka, Bangladesh, 2024, pp. 165-169, doi: 10.1109/ICICT64387.2024.10839671.
+keywords: {Temperature distribution;Accuracy;Fluctuations;Weather forecasting; 
+- TCCE 2022 — *Abdullah, M., Waheed, S., Hossain, S. (2023). Sentiment Analysis of Restaurant Reviews Using Machine Learning. In: Kaiser, M.S., Waheed, S., Bandyopadhyay, A., Mahmud, M., Ray, K. (eds) Proceedings of the Fourth International Conference on Trends in Computational and Cognitive Engineering. Lecture Notes in Networks and Systems, vol 618. Springer, Singapore. https://doi.org/10.1007/978-981-19-9483-8_35  
+- TCCE 2022 — *Hossain, S., Waheed, S., Abdullah, M. (2023). Car Detection from Unmanned Aerial Vehicles Based on Deep Learning: A Comparative Study. In: Kaiser, M.S., Waheed, S., Bandyopadhyay, A., Mahmud, M., Ray, K. (eds) Proceedings of the Fourth International Conference on Trends in Computational and Cognitive Engineering. Lecture Notes in Networks and Systems, vol 618. Springer, Singapore. https://doi.org/10.1007/978-981-19-9483-8_6
+
+
 ## Employment History
 
 - **Lecturer, Dept. of Cyber Security Engineering** — University of Frontier Technology, Bangladesh(24 September 2025 – Present).
@@ -50,19 +68,3 @@ My research focuses on developing deep learning and explainable AI (XAI) models 
 
 ---
 
-## Selected Publications
-
-### ** Peer-Reviewed Journal**
-- **IEEE Access (2026)** - S. Khanom, M. Abdullah, M. M. Hasan, M. J. Joy, S. Waheed, and M. Morshed, “BanglaRain: A Missingness-
-Aware Spatiotemporal Graph Transformer for Probabilistic Multi-Horizon Rainfall and Extreme Event Forecast-
-ing,” IEEE Access, vol. 14, pp. 118900–118927, 2026. DOI: 10.1109/ACCESS.2026.3719410
-
-- **IEEE Access (2025)** — M. Abdullah, S. Waheed, M. Mahmodul Hasan and M. Morshed, "Explainable AI-Driven Dew Point Forecasting With Attention-Based Temporal Convolutional Networks," in IEEE Access, vol. 13, pp. 59923-59948, 2025, doi: 10.1109/ACCESS.2025.3557263.
-
-
-### **Peer-Reviewed Conferences Proceedings (IEEE & Springer)**
-- NCIM 2025 — *M. Abdullah, S. Waheed, S. Khanom, M. M. Hasan, J. A. B. Shawon and M. Morshed, "Comprehensive Analysis and Forecasting of Maximum and Minimum Temperature Using Deep Learning Techniques," 2025 2nd International Conference on Next-Generation Computing, IoT and Machine Learning (NCIM), Gazipur, Bangladesh, 2025, pp. 1-6, doi: 10.1109/NCIM65934.2025.11160107.
-- ICICT 2024 — *M. Abdullah, S. Waheed, M. Morshed and M. M. Hasan, "Analyzing and Forecasting Dew Point Temperature Trends in Bangladesh," 2024 2nd International Conference on Information and Communication Technology (ICICT), Dhaka, Bangladesh, 2024, pp. 165-169, doi: 10.1109/ICICT64387.2024.10839671.
-keywords: {Temperature distribution;Accuracy;Fluctuations;Weather forecasting; 
-- TCCE 2022 — *Abdullah, M., Waheed, S., Hossain, S. (2023). Sentiment Analysis of Restaurant Reviews Using Machine Learning. In: Kaiser, M.S., Waheed, S., Bandyopadhyay, A., Mahmud, M., Ray, K. (eds) Proceedings of the Fourth International Conference on Trends in Computational and Cognitive Engineering. Lecture Notes in Networks and Systems, vol 618. Springer, Singapore. https://doi.org/10.1007/978-981-19-9483-8_35  
-- TCCE 2022 — *Hossain, S., Waheed, S., Abdullah, M. (2023). Car Detection from Unmanned Aerial Vehicles Based on Deep Learning: A Comparative Study. In: Kaiser, M.S., Waheed, S., Bandyopadhyay, A., Mahmud, M., Ray, K. (eds) Proceedings of the Fourth International Conference on Trends in Computational and Cognitive Engineering. Lecture Notes in Networks and Systems, vol 618. Springer, Singapore. https://doi.org/10.1007/978-981-19-9483-8_6
