@@ -70,5 +70,5 @@ keywords: {Temperature distribution;Accuracy;Fluctuations;Weather forecasting;
 
 ## TECHNICAL SKILLS
 - Deep Learning & AI: & Spatiotemporal Graph Transformers, Graph Neural Networks (GNNs), Temporal Convolutional Networks (TCNs), Attention Mechanisms, Explainable AI (XAI), Probabilistic Forecasting, NLP. 
-- Programming\Frameworks: & Python (PyTorch, TensorFlow/Keras, Scikit-learn, Pandas, NumPy, Matplotlib), R, MATLAB, C, C++, SQL, Anaconda, Jupyter Notebook,  Google Colab, Tableau, LaTeX
+- Programming\Frameworks: Python (PyTorch, TensorFlow/Keras, Scikit-learn, Pandas, NumPy, Matplotlib), R, MATLAB, C, C++, SQL, Anaconda, Jupyter Notebook,  Google Colab, Tableau, LaTeX
 
