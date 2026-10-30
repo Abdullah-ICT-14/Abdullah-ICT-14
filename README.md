@@ -17,15 +17,6 @@ My research focuses on developing deep learning and explainable AI (XAI) models 
 
 ---
 
-## Academic Background
-
-- **M.Sc. (Engg.) in ICT** — Mawlana Bhashani Science & Technology University (2023–2025)  
-  GPA: **4.00 / 4.00**  
-- **B.Sc. (Engg.) in ICT** — Mawlana Bhashani Science & Technology University (2017–2023)  
-  GPA: **3.87 / 4.00**
-
----
-
 ## Selected Publications
 
 ###  **Peer-Reviewed Journal**
@@ -43,7 +34,14 @@ keywords: {Temperature distribution;Accuracy;Fluctuations;Weather forecasting;
 - TCCE 2022 — *Abdullah, M., Waheed, S., Hossain, S. (2023). Sentiment Analysis of Restaurant Reviews Using Machine Learning. In: Kaiser, M.S., Waheed, S., Bandyopadhyay, A., Mahmud, M., Ray, K. (eds.) Proceedings of the Fourth International Conference on Trends in Computational and Cognitive Engineering. Lecture Notes in Networks and Systems, vol 618. Springer, Singapore. https://doi.org/10.1007/978-981-19-9483-8_35  
 - TCCE 2022 — *Hossain, S., Waheed, S., Abdullah, M. (2023). Car Detection from Unmanned Aerial Vehicles Based on Deep Learning: A Comparative Study. In: Kaiser, M.S., Waheed, S., Bandyopadhyay, A., Mahmud, M., Ray, K. (eds), Proceedings of the Fourth International Conference on Trends in Computational and Cognitive Engineering. Lecture Notes in Networks and Systems, vol 618. Springer, Singapore. https://doi.org/10.1007/978-981-19-9483-8_6
 
+## Academic Background
 
+- **M.Sc. (Engg.) in ICT** — Mawlana Bhashani Science & Technology University (2023–2025)  
+  GPA: **4.00 / 4.00**  
+- **B.Sc. (Engg.) in ICT** — Mawlana Bhashani Science & Technology University (2017–2023)  
+  GPA: **3.87 / 4.00**
+
+---
 ## Employment History
 
 - **Lecturer, Dept. of Cyber Security Engineering** — University of Frontier Technology, Bangladesh(24 September 2025 – Present).
